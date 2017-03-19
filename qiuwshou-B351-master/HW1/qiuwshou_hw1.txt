@@ -1,0 +1,7 @@
+1.First The ALICE uses a method to read the input, which may can extract important words. Then ALICE uses another method to search for responses for the conversation. This method may contains many built-in answers for very general question (such as what is your name?), and it is just about the search strategy we talked about in the class. Also for unreasonable those questions (such as dkfajlksdfjsalkdjflasd?) the ALICE starts another conversation which it has the responses for it.
+
+2.The ALICE can not generate answers. To fix the problem the ALICE need a method to increase its database and search ability. For example, responsing to a conversation, the ALICE can use a web crawler to search for the keys in the conversaion. Then by a statistic analysis method the ALICE will be able to get the best reponse for the conversation.
+
+3.The latter statement is not true. Surely computers can't create and they only have built-in methods and logic. However, they have the power to deal more complicated problems and situations than human beings. 
+
+4.

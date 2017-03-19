@@ -1,0 +1,11 @@
+IF ANY PROBLEMS FOR YOUR GRADE, YOU CAN EMAIL TO WC23 AT INDIANA.EDU
+
+
+Q4:-1
+Actually we just ask for a reasonable number for it. For example, searching the revenue of Starbucks online and according to the population of Bloomington and some survey for product preference(maybe can be found online), you can get an estimated number. Also, AI can do this following the same logic.
+
+
+Q7: -1
+You didn’t consider the depth=0 case and also didn’t follow the output fashion.
+
+
